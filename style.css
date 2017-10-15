@@ -1,0 +1,20 @@
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #FFCC00;
+  }
+
+  html {
+ height: 100%;
+  }
+.teal{
+    background-color: teal;
+   
+}
+
+.re-txt{
+  margin: 2.5%;
+  background: lightsteelblue;
+  padding: 5%;
+}
